@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Leonard Arif Sutiono 👋
 
-<!--
-**LeonArif/LeonArif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Full Stack Developer focused on building functional and user-friendly web applications.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on improving my skills in Modern Web Development.
+- 🌱 I’m currently learning Deep Learning and Advanced Backend Systems.
+- 💻 Check out my portfolio: [leonard-portofolio.vercel.app](https://leonard-portofolio.vercel.app/)
+- 📫 How to reach me: [Masukkan Email Anda]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Languages:** JavaScript, TypeScript, HTML, CSS
+- **Frameworks:** React, Next.js, Node.js
+- **Styling:** Tailwind CSS, Bootstrap
+- **Tools:** Git, Vercel, Postman
+
+### 📊 GitHub Stats
+![Leonard's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=radical)

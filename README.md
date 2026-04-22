@@ -1,5 +1,10 @@
 # 💫 About Me:
-1. Updated Profile Summary<br>New Tagline: Full Stack Developer & AI Enthusiast.<br><br>Focus: Building intelligent applications by integrating Machine Learning models into modern web architectures.<br><br>2. Expanded Tech Stack (AI/ML)<br>Add these specific icons or keywords in the GPRM "Skills" section:<br><br>Languages: Python (The backbone of AI/ML).<br><br>Libraries/Frameworks: TensorFlow, PyTorch, Scikit-learn, or Keras.<br><br>Tools: Jupyter Notebooks, Google Colab, Hugging Face.<br><br>Concepts: Neural Networks, Computer Vision, Natural Language Processing (NLP), and Data Visualization.
+I'm a **Full Stack Developer** with a deep interest in **Artificial Intelligence and Machine Learning**. I love bridging the gap between intelligent algorithms and user-centric web applications.
+
+- 🤖 **AI/ML Focus:** Currently exploring Deep Learning and Computer Vision.
+- 🔭 **Current Project:** Integrating ML models into web-based platforms for real-time predictions.
+- 🌱 **Learning:** Advanced Neural Networks and Large Language Models (LLMs).
+- 🔗 **Portfolio:** [leonard-portofolio.vercel.app](https://leonard-portofolio.vercel.app/)
 
 
 ## 🌐 Socials:

@@ -1,10 +1,10 @@
 # 💫 About Me:
 I'm a **Full Stack Developer** with a deep interest in **Artificial Intelligence and Machine Learning**. I love bridging the gap between intelligent algorithms and user-centric web applications.
 
-- 🤖 **AI/ML Focus:** Currently exploring Deep Learning and Computer Vision.
-- 🔭 **Current Project:** Integrating ML models into web-based platforms for real-time predictions.
-- 🌱 **Learning:** Advanced Neural Networks and Large Language Models (LLMs).
-- 🔗 **Portfolio:** [leonard-portofolio.vercel.app](https://leonard-portofolio.vercel.app/)
+- **AI/ML Focus:** Currently exploring Deep Learning and Computer Vision.
+- **Current Project:** Integrating ML models into web-based platforms for real-time predictions.
+- **Learning:** Advanced Neural Networks and Large Language Models (LLMs).
+- **Portfolio:** [leonard-portofolio.vercel.app](https://leonard-portofolio.vercel.app/)
 
 
 ## 🌐 Socials:
